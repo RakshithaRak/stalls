@@ -12,4 +12,4 @@ This will install all the mentioned libraries from npm registry.
 2. npm run dev
 This will run app
 
-Anything let me know via "vivek.yes002@gmail.com"
+Anything let me know via "rakshi259@gmail.com"
