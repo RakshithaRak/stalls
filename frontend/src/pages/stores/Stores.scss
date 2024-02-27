@@ -1,0 +1,25 @@
+.stores-container-default {
+    transition: ease-in-out .5s;
+    overflow: auto;
+}
+
+.stores-container {
+    height: calc(100% - 84px);
+    margin-top: 84px;
+}
+
+.stores-container-scrolled {
+    height: calc(100% - 51px);
+    margin-top: 51px;
+}
+
+@media screen and (max-width: 390px) {
+    .stores-container {
+        height: calc(100% - 182px);
+        margin-top: 230px;
+    }
+
+    .stores-container-scrolled {
+        margin-top: 56px;
+    }
+}

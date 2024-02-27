@@ -1,0 +1,70 @@
+.store-container {
+    height: 100%;
+}
+
+.store-image {
+    background-repeat: no-repeat;
+    background-size: contain;
+    cursor: pointer;
+    height: 100%;
+    width: 100%;
+}
+
+.branch-name {
+    cursor: pointer;
+    font-family: Roboto-Regular-italic;
+    font-size: 24px;
+    line-height: 28px;
+}
+
+.address {
+    margin: 0;
+}
+
+.address,
+.contact-details {
+    font-family: Roboto-Light;
+    line-height: 19px;
+}
+
+.contact-details {
+    margin: 0;
+    text-decoration: underline;
+}
+
+.store-open-status {
+    align-items: center;
+    cursor: pointer;
+    display: flex;
+    font-family: Roboto-Regular;
+    gap: .5rem;
+    line-height: 19px;
+    margin: 0;
+    margin-top: 1.6rem;
+    width: fit-content;
+}
+
+@media screen and (max-width: 390px) {
+    .store-container {
+        height: auto;
+    }
+
+    .store-image {
+        height: auto;
+        margin-bottom: 1.4rem;
+    }
+
+    .branch-name {
+        margin-bottom: 1.6rem;
+    }
+
+    .phone {
+        margin-top: 2rem !important;
+    }
+
+    .store-open-status {
+        margin-top: 2.5rem;
+        margin-bottom: 4rem;
+    }
+
+}

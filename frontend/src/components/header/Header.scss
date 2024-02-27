@@ -1,0 +1,50 @@
+header {
+    height: 84px;
+    position: fixed;
+    top: 0;
+    transition: ease-in-out .5s;
+
+    .go-back {
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        gap: .23rem;
+        width: fit-content;
+    }
+
+    p {
+        margin: 0;
+        font-family: Roboto-Light;
+        line-height: 19px;
+    }
+
+    .book-an-appointment-text {
+        font-family: Roboto-Regular;
+        text-decoration: underline;
+        cursor: pointer;
+        width: fit-content;
+    }
+}
+
+.header-scrolled {
+    height: 51px;
+}
+
+.header-on-store-details {
+    height: 56px;
+}
+
+@media screen and (max-width: 390px) {
+    header {
+        height: 182px;
+
+        .call-us-container {
+            padding-left: .7rem !important;
+        }
+
+        .book-an-appointment-text-container {
+            display: flex;
+            justify-content: end;
+        }
+    }
+}

@@ -1,0 +1,87 @@
+[
+  {
+    "branch_name": "Indiranagar",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "image": "https://plus.unsplash.com/premium_photo-1675183855763-e36a82ab8edc?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "address": "Indiranagar, Karnataka, India",
+    "phone_no": "+91 9632546670",
+    "email": "jogi@aisthetic.co",
+    "store_timings": {
+      "Monday": "10AM - 8PM",
+      "Tuesday": "10AM - 8PM",
+      "Wednesday": "10AM - 8PM",
+      "Thursday": "10AM - 8PM",
+      "Friday": "10AM - 8PM",
+      "Saturday": "10AM - 8PM",
+      "Sunday": "10AM - 8PM"
+    }
+  },
+  {
+    "branch_name": "Basavanagudi",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "image": "https://plus.unsplash.com/premium_photo-1683121993443-9d4fbc308de3?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "address": "Basavanagudi, Karnataka, India",
+    "phone_no": "+91 9632546670",
+    "email": "jogi@aisthetic.co",
+    "store_timings": {
+      "Monday": "10AM - 8PM",
+      "Tuesday": "10AM - 8PM",
+      "Wednesday": "10AM - 8PM",
+      "Thursday": "10AM - 8PM",
+      "Friday": "10AM - 8PM",
+      "Saturday": "10AM - 8PM",
+      "Sunday": "10AM - 8PM"
+    }
+  },
+  {
+    "branch_name": "Koramangala",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "image": "https://images.unsplash.com/photo-1541474846910-67332bd2498d?q=80&w=2048&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "address": "Koramangala, Karnataka, India",
+    "phone_no": "+91 9632546670",
+    "email": "jogi@aisthetic.co",
+    "store_timings": {
+      "Monday": "10AM - 8PM",
+      "Tuesday": "10AM - 8PM",
+      "Wednesday": "10AM - 8PM",
+      "Thursday": "10AM - 8PM",
+      "Friday": "10AM - 8PM",
+      "Saturday": "10AM - 8PM",
+      "Sunday": "10AM - 8PM"
+    }
+  },
+  {
+    "branch_name": "Jayanagar",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "image": "https://images.unsplash.com/photo-1615598255772-be0e66beb31d?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "address": "Jayanagar, Karnataka, India",
+    "phone_no": "+91 9632546670",
+    "email": "jogi@aisthetic.co",
+    "store_timings": {
+      "Monday": "10AM - 8PM",
+      "Tuesday": "10AM - 8PM",
+      "Wednesday": "10AM - 8PM",
+      "Thursday": "10AM - 8PM",
+      "Friday": "10AM - 8PM",
+      "Saturday": "10AM - 8PM",
+      "Sunday": "10AM - 8PM"
+    }
+  },
+  {
+    "branch_name": "Banerghatta",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "image": "https://images.unsplash.com/photo-1575279099331-ab1894fc7b97?q=80&w=2904&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "address": "Banerghatta, Karnataka, India",
+    "phone_no": "+91 9632546670",
+    "email": "jogi@aisthetic.co",
+    "store_timings": {
+      "Monday": "10AM - 8PM",
+      "Tuesday": "10AM - 8PM",
+      "Wednesday": "10AM - 8PM",
+      "Thursday": "10AM - 8PM",
+      "Friday": "10AM - 8PM",
+      "Saturday": "10AM - 8PM",
+      "Sunday": "10AM - 8PM"
+    }
+  }
+]

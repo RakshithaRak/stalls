@@ -1,0 +1,102 @@
+.store-details-container {
+    height: calc(100% - 56px);
+    margin-top: 56px;
+
+    .img-container {
+        padding-left: 0;
+        height: 100%;
+    }
+
+    img {
+        width: 100%;
+        height: 100%;
+    }
+
+    .branch-name {
+        font-family: Roboto-Regular-italic;
+        font-size: 36px;
+        line-height: 42px;
+        margin-bottom: 2rem;
+    }
+
+    .description {
+        font-family: Roboto-Light;
+        line-height: 19px;
+        margin-bottom: 2rem;
+        // text-align: justify;
+        width: 96%;
+    }
+
+    .sub-heading {
+        margin-bottom: 1.5rem;
+    }
+
+    .sub-heading,
+    .store-open-status,
+    .today-timings {
+        font-family: Roboto-Regular;
+        line-height: 19px;
+    }
+
+    .store-open-status {
+        align-items: center;
+        display: flex;
+        gap: .3rem;
+        margin-bottom: 1.1rem;
+        margin-top: 0;
+    }
+
+    .default-timings {
+        margin: 0 0 .5rem 0;
+    }
+
+    .timings {
+        font-family: Roboto-Light;
+        line-height: 19px;
+    }
+}
+
+@media screen and (max-width: 390px) {
+    .store-details-container {
+        overflow: scroll;
+        margin-bottom: 5rem;
+
+        .img-container {
+            padding-left: .75rem;
+            height: auto;
+        }
+
+        img {
+            height: auto;
+        }
+
+        .branch-details-container {
+            padding-bottom: 3.25rem;
+        }
+
+        .branch-name {
+            margin: 1.5rem 0;
+        }
+
+        .description {
+            width: 100%;
+        }
+
+        .address-container {
+            margin-bottom: 2rem;
+        }
+
+        .store-timings {
+            margin-top: 2rem;
+        }
+
+        .store-open-status {
+            margin-bottom: 1.75rem;
+        }
+
+        .default-timings {
+            margin-bottom: 1rem;
+        }
+    }
+
+}
