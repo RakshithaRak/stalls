@@ -2,13 +2,13 @@ import { initializeApp } from "firebase/app";
 import { getAuth, GoogleAuthProvider } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDifRV52ZMLSi4VQ1AWVHiaAbk8Htrwg2A",
-  authDomain: "aistheticstores.firebaseapp.com",
-  projectId: "aistheticstores",
-  storageBucket: "aistheticstores.appspot.com",
-  messagingSenderId: "751792628051",
-  appId: "1:751792628051:web:778d5305d2b533262f01a6",
-  measurementId: "G-XK71E2Y8PZ",
+  apiKey: "AIzaSyAYE-zNGOs9OG7iewdyaqqrkvNbx9MCk-g",
+  authDomain: "stall-99.firebaseapp.com",
+  projectId: "stall-99",
+  storageBucket: "stall-99.appspot.com",
+  messagingSenderId: "510769917341",
+  appId: "1:510769917341:web:47f3abb52d91c40b925374",
+  measurementId: "G-6MJ9BHDN0S",
 };
 
 // Initialize Firebase
